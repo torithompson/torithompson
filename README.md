@@ -7,4 +7,3 @@ Welcome to my github
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm in my second year for computer programming and analysis. So far we have learned c++, c#, html, css, javascript, linux scripting, 
                 sql/database design and php
-theme: minima
