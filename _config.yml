@@ -1,7 +1,7 @@
 title: Tori's learning path
 author:
-  name: site.author.name
-  email: sit.author.email
+  name: Tori Thompson
+  email: "tori.thompson@student.sl.on.ca"
 description: > # this means to ignore newlines until "show_excerpts:"
   Projects and assignments for the last 2 years of my learning! 
   
@@ -13,8 +13,10 @@ minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
-  social_links:
-    github:  github.com/torithompson
+  
+  minima:
+    social_links:
+      github:  github.com/torithompson
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
