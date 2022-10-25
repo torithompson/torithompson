@@ -17,5 +17,7 @@ Check out the following projects I've completed on github:
   <li>HTML & CSS</li>
     <a href="https://github.com/stars/torithompson/lists/html" target="_blank">List of Web Dev Projects</a>
   <li>JavaScript</li>
-    <a href="https://github.com/stars/torithompson/lists/javascript" target="_blank">List of JavaScript Projects</a>  
+    <a href="https://github.com/stars/torithompson/lists/javascript" target="_blank">List of JavaScript Projects</a>
+  <li>C#</li>
+    <a href="https://github.com/stars/torithompson/lists/c#-projects" target="_blank">List of JavaScript Projects</a>  
 </ul>
