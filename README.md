@@ -21,3 +21,5 @@ Check out the following projects I've completed on github:
   <li>C#</li>
     <a href="https://github.com/stars/torithompson/lists/c-projects" target="_blank">List of C# Projects</a>  
 </ul>
+
+<p><a href="https://github.com/torithompson/wheel-of-fortune-game/blob/master/assignment2.ToriThompson.exe">Download Wheel of Fortune game!</a></p>
