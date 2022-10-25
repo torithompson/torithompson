@@ -1,7 +1,7 @@
 title: Tori's learning path
 author:
-  name: Tori Thompson
-  email: "tori.thompson@student.sl.on.ca"
+  Tori Thompson
+  "tori.thompson@student.sl.on.ca"
 description: > # this means to ignore newlines until "show_excerpts:"
   Projects and assignments for the last 2 years of my learning! 
   
@@ -14,38 +14,8 @@ minima:
 
   # generate social links in footer
   
-  minima:
-    social_links:
-      github:  github.com/torithompson
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-    # google_scholar_id: qc6CJjYAAAAJ
-
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+  social_links:
+    github:  github.com/torithompson
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
