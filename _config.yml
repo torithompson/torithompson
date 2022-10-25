@@ -3,7 +3,8 @@ author:
   name: Tori Thompson
   email: tori.thompson@student.sl.on.ca
 description: > # this means to ignore newlines until "show_excerpts:"
-Projects and assignments for the last 2 years of my learning! 
+  Projects and assignments for the last 2 years of my learning! 
+  
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
