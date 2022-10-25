@@ -1,4 +1,4 @@
-title: Tori\'s learning path
+title: Tori's learning path
 author:
   name: Tori Thompson
   email: tori.thompson@student.sl.on.ca
@@ -14,8 +14,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    github:  github.com/torithompson
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
