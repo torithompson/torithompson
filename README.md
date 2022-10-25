@@ -11,11 +11,11 @@ Welcome to my github
 Check out the following projects I've completed on github:
 <ul>
   <li>C++</li>
-    <a href="https://github.com/stars/torithompson/lists/c">List of C++ Projects</a>
+    <a href="https://github.com/stars/torithompson/lists/c" target="_blank">List of C++ Projects</a>
   <li>PHP</li>
-    <a href="https://github.com/stars/torithompson/lists/php">List of PHP Projects</a>
+    <a href="https://github.com/stars/torithompson/lists/php" target="_blank">List of PHP Projects</a>
   <li>HTML & CSS</li>
-    <a href="https://github.com/stars/torithompson/lists/html">List of Web Dev Projects</a>
+    <a href="https://github.com/stars/torithompson/lists/html" target="_blank">List of Web Dev Projects</a>
   <li>JavaScript</li>
-    <a href="https://github.com/stars/torithompson/lists/javascript">List of JavaScript Projects</a>  
+    <a href="https://github.com/stars/torithompson/lists/javascript" target="_blank">List of JavaScript Projects</a>  
 </ul>
