@@ -13,8 +13,7 @@ Check out the following projects I've completed on github:
   <li>C++</li>
     <a href="https://github.com/stars/torithompson/lists/c" target="_blank">List of C++ Projects</a>
   <li>PHP</li>
-    <a href="https://github.com/stars/torithompson/lists/php" target="_blank">List of PHP Projects</a><br>
-    <a href="/assets/sample.PNG">Sample of php rentalListings index page</a>
+    <a href="https://github.com/stars/torithompson/lists/php" target="_blank">List of PHP Projects</a>
   <li>HTML & CSS</li>
     <a href="https://github.com/stars/torithompson/lists/html" target="_blank">List of Web Dev Projects</a>
   <li>JavaScript</li>
