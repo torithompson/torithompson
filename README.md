@@ -22,5 +22,9 @@ Check out the following projects I've completed on github:
     <a href="https://github.com/stars/torithompson/lists/c-projects" target="_blank">List of C# Projects</a>  
     <p><a href="https://github.com/torithompson/wheel-of-fortune-game/blob/master/assignment2.ToriThompson.exe">Link to Wheel of Fortune type game exe file!</a></p>
 </ul>
-
+Websites/pages I have done: 
+<ul>
+  <li>https://lhblake.com</li>
+  <li>https://piecescafe.com/pages/games-library</li>
+</ul>
 
