@@ -24,7 +24,7 @@ Check out the following projects I've completed on github:
 </ul>
 Websites/pages I have done: 
 <ul>
-  <li>https://lhblake.com</li>
-  <li>https://piecescafe.com/pages/games-library</li>
+  <li><a href="https://lhblake.com" target="_blank">LH BLake</a></li>
+  <li><a href="https://piecescafe.com/pages/games-library" target="_blank">Games library page - Pieces Boardgame Cafe</a></li>
 </ul>
 
